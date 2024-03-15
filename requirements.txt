@@ -10,3 +10,8 @@ python-dotenv
 llama-index-embeddings-huggingface
 llama-index-embeddings-instructor
 llama-index
+faiss-cpu
+streamlit
+youtube-transcript-api
+llama_index
+llama-index-llms-huggingface
