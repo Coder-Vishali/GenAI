@@ -15,3 +15,6 @@ streamlit
 youtube-transcript-api
 llama_index
 llama-index-llms-huggingface
+cassio
+datasets
+PyPDF2
