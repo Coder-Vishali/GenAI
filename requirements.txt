@@ -21,3 +21,5 @@ PyPDF2
 ollama
 chromadb
 gradio
+llama_index.llms.langchain
+llama_index.embeddings.langchain
