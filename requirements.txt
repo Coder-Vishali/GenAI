@@ -23,3 +23,5 @@ chromadb
 gradio
 llama_index.llms.langchain
 llama_index.embeddings.langchain
+langchain_openai
+promptquality
