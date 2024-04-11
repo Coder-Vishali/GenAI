@@ -4,6 +4,8 @@ Installation of tika:
 Download Apache Tika and save the tika-server-x.x.jar file to the folder you want to run Tika from.
 
 Reference:
+https://doc.sitecore.com/xp/en/developers/102/platform-administration-and-architecture/walkthrough--using-apache-tika-to-extract-media-content-for-indexing.html
+
 https://www.apache.org/dyn/closer.lua/tika/2.9.2/tika-server-standard-2.9.2.jar
 
 n the folder where you saved the file, open a PowerShell prompt and start Apache Tika:
