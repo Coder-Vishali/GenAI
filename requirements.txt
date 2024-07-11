@@ -25,3 +25,8 @@ llama_index.llms.langchain
 llama_index.embeddings.langchain
 langchain_openai
 promptquality
+bert_score
+rouge
+torchmetrics
+rouge_score
+tqdm
